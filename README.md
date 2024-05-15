@@ -1,10 +1,12 @@
 ## Проект: Сложно сосредоточиться
-* [Ссылка на проект]( https://anastasiiakunstman.github.io/slozhno-sosredotochitsya/index.html )
+[Ссылка на проект]( https://anastasiiakunstman.github.io/slozhno-sosredotochitsya/index.html )
+
+<p align="center">
+  <img src="/images/scrin-lite.JPG" alt="светлая тема" width="45%">
+  <img src="/images/scrin-dark.JPG" alt="темная тема" width="45%">
+</p>
 
 ## [Макет](https://drive.google.com/file/d/169L2K_fhJiOt8XWM5WjmgNT2ZetWKoD0/view?usp=sharing)
-
-![Сложно сосредоточиться<](/images/scrin-lite.JPG)
-![](/images/scrin-dark.JPG)
 
 Проект выполнен, следуя всем требованиям, рекомендациям и лучшим практикам верстки.
 
